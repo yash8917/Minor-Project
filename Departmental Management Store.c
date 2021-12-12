@@ -56,7 +56,6 @@ int main()
     d_mainmenu();
     return 0;
 }
-
 void d_mainmenu()
 {
     int i;
