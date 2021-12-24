@@ -9,6 +9,7 @@
 #define ACS 4
 COORD coord= {0,0}; // this is global variable
 void gotoxy(int x,int y)
+    
 {
     coord.X=x;
     coord.Y=y;
